@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®️">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Edubridge India</title>
+  <link rel="stylesheet" href="css/layout.css"/>
+ </head>
+ <body>
+ <header>
+Welcome to Edubridge India!!!
+ </header>
+ <section>
+ <nav>
+	<ul>
+		<li><a href="html/formlogin1.html" target="frame1">Login</a></li>
+        <li><a href="html/signupfull.html" target="frame1" >Signup</a></li>
+	</ul>
+</nav>
+<article>
+	<iframe name="frame1" width="100%" height="100%" style="border:0;top:0;left:0;bottom:0;height:100%;width:100%">
+</iframe>
+</article>
+</section>
+<footer> All &copyrights are reserved to Edubridge...</footer>
+</body>
+</html>
+
